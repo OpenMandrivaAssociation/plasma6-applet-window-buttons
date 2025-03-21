@@ -20,6 +20,7 @@ BuildRequires:	cmake(KF6Svg)
 BuildRequires:	cmake(Qt6Core)
 BuildRequires:	cmake(Qt6Gui)
 BuildRequires:	cmake(Qt6Qml)
+BuildRequires:	cmake(Plasma)
 BuildSystem:	cmake
 BuildOption:	-DKDE_INSTALL_USE_QT_SYS_PATHS:BOOL=ON
 
